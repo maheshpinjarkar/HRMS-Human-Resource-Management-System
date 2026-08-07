@@ -14,7 +14,7 @@ Library Management System is a web application developed using Python, Flask, HT
 - Issue Books
 - Return Books
 - Book Availability
-- Dashboard
+- Dashboard 
 
 ##  Technologies Used
 - Python
