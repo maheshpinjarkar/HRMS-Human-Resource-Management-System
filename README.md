@@ -209,7 +209,6 @@ B.Tech Cyber Security Engineer
 
 This project is available for educational and portfolio purposes.
 
-```
 <img width="1906" height="911" alt="Screenshot 2026-05-10 100944" src="https://github.com/user-attachments/assets/8b356e0b-e90c-4e5e-ac94-d0dc6a51d70b" />
 <img width="1600" height="771" alt="WhatsApp Image 2026-08-07 at 12 47 22 PM (5)" src="https://github.com/user-attachments/assets/d0b31e00-cba2-4209-a646-f11ecfe91c31" />
 <img width="1600" height="766" alt="WhatsApp Image 2026-08-07 at 12 47 21 PM" src="https://github.com/user-attachments/assets/d2e8b272-2661-45c2-a104-b670bac60830" />
